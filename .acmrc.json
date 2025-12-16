@@ -6,6 +6,8 @@
     "images": "public/images"
   },
   "domainUrl": "https://zalan.web.id",
+  "templates": {},
+  "ui": {},
   "settings": {
     "postFileTypes": ".md,.mdx",
     "imageFileTypes": "image/*",
@@ -19,7 +21,5 @@
     "updatePost": "fix(content): update post \"{filename}\"",
     "newImage": "feat(assets): add image \"{filename}\"",
     "updateImage": "refactor(assets): update image for \"{filename}\""
-  },
-  "templates": {},
-  "ui": {}
+  }
 }
